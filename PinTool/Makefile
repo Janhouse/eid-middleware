@@ -1,4 +1,4 @@
-PREFIX = /opt/latvia-eid
+PREFIX = ${INSTDIR}/opt/latvia-eid
 FULLNAME = otlv-pintool
 
 WX_CFLAGS = `wx-config --cxxflags`
